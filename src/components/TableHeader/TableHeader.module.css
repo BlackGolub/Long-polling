@@ -1,0 +1,12 @@
+.post {
+	display: flex;
+	flex-direction: column;
+}
+
+.cell {
+	padding: 10px;
+	border: 1px solid gray;
+	background-color: #ededed;
+	font-weight: bold;
+	text-align: left;
+}
