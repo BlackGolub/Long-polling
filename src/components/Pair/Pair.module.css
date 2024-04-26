@@ -9,4 +9,6 @@
 	background-color: #ededed;
 	font-weight: bold;
 	text-align: left;
+	text-transform: capitalize;
+	min-width: 100px;
 }

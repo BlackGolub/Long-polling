@@ -4,11 +4,11 @@ export function TableHeader() {
 	const headlines = [
 		'Pair name/market',
 		'RUB/CUPCAKE',
-		'USDT/CUPCAKE',
+		'USD/CUPCAKE',
 		'EUR/CUPCAKE',
-		'RUB/USDT',
+		'RUB/USD',
 		'RUB/EUR',
-		'EUR/USDT',
+		'EUR/RUB',
 	]
 
 	return (
